@@ -1,0 +1,12 @@
+{
+  "env": {
+    "environmentRun": "QA",
+    "QA": {
+      "simplejson": "http://demo8370198.mockable.io/",
+      "simple": "http://demo8168190.mockable.io/",
+      "simplemedium": "http://demo0065046.mockable.io/",
+      "medium": "http://demo5061470.mockable.io/",
+      "mediumcomplex": "http://demo0497501.mockable.io/"
+    }
+  }
+}
