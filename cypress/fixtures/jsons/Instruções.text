@@ -24,12 +24,12 @@
          3 - simple-medium -> JSON nível básico com complexidade nível 1 --> http://demo0065046.mockable.io/
          4 - medium        -> JSON nível médico com complexidade básica --> http://demo5061470.mockable.io/
          5 - medium-complex -> JSON nível médio com complexidade média -->  http://demo0497501.mockable.io/
-         6 - complex        -> JSON nível complexo dificuldade baixa
-         7 - complex-medium -> JSON nível complexo dificuldade média/alta
-         8 - hard-simple    -> JSON nível difícil, dificuldade baixa/média
-         9 - hard-medium    -> JSON nível difícil, dificuldade média/alta
-         10 - hard-complex  -> JSON nível difícil, dificuldade alta
-         11 - hard-hard     -> JSON nível Alto, dificuldade alta/altamente alta
+         6 - complex        -> JSON nível complexo dificuldade baixa --> http://demo4619113.mockable.io/
+         7 - complex-medium -> JSON nível complexo dificuldade média/alta --> http://demo9907628.mockable.io/
+         8 - hard-simple    -> JSON nível difícil, dificuldade baixa/média -->
+         9 - hard-medium    -> JSON nível difícil, dificuldade média/alta -->
+         10 - hard-complex  -> JSON nível difícil, dificuldade alta -->
+         11 - hard-hard     -> JSON nível Alto, dificuldade alta/altamente alta -->
          12 - master-simple -> JSON nível altíssimo, dificuldade média
          13 - master-medium -> JSON nível altíssimo, dificuldade média/alta
          14 - master-complex -> JSON nível Semi-deus, dificuldade Semi-deus.
@@ -54,3 +54,5 @@
 3 - desafio20jsons3@gmail.com -> ||
 4 - desafio20jsons4@gmail.com -> ||
 5 - desafio20jsons5@gmail.com -> ||
+6 - desafio20jsons6@gmail.com -> ||
+7 - desafio20jsons7@gmail.com -> ||
