@@ -15,7 +15,7 @@
   "author": "Jam Batista",
   "license": "ISC",
   "dependencies": {
-    "prettier": "^2.8.4",
+    "prettier": "^2.8.8",
     "cypress": "^9.5.3",
     "@faker-js/faker": "^7.6.0",
     "chance": "^1.1.8",
